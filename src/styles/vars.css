@@ -1,0 +1,20 @@
+:root {
+    /*Fontes*/
+    --font-dm-sans: "DM Sans", sans-serif;
+
+    /*CORES*/
+    --bg-icon: #131313;
+    --bg-arrow-color: rgba(0,0,0,7);
+
+    --cor-preto: #000;
+    --cor-cinza-mais-escuro: #121212;
+    --cor-cinza-escuro: #242424;
+    --cor-cinza-menos-escuro: #878787;
+    --cor-cinza-claro: #b3b3b3;
+    --cor-branco: #fff;
+
+    --cor-grad-um: #101926;
+    --cor-grad-dois: #2bdefd;
+
+    --cor-sub: #a7a7a7;
+}
